@@ -1,0 +1,55 @@
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.exe.config
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.exe
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.pdb
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.AssemblyReference.cache
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.SuggestedBindingRedirects.cache
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.Form1.resources
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.Properties.Resources.resources
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.GenerateResource.cache
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.CoreCompileInputs.cache
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.exe
+C:\Users\anderson.spera\source\repos\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.pdb
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.exe.config
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.exe
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.pdb
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.Form1.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.exe
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.pdb
+C:\Users\Etec Franco da Rocha\Downloads\ProjetoFeira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.AssemblyReference.cache
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.exe.config
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.exe
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.pdb
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.AssemblyReference.cache
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.SuggestedBindingRedirects.cache
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.Form1.resources
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.Properties.Resources.resources
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.GenerateResource.cache
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.CoreCompileInputs.cache
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.exe
+D:\2ºModulo\feira\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.pdb
+E:\Etec\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.exe.config
+E:\Etec\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.exe
+E:\Etec\ProjetoFeira\ProjetoFeira\bin\Debug\ProjetoFeira.pdb
+E:\Etec\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.AssemblyReference.cache
+E:\Etec\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.SuggestedBindingRedirects.cache
+E:\Etec\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.Form1.resources
+E:\Etec\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.Properties.Resources.resources
+E:\Etec\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.GenerateResource.cache
+E:\Etec\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.CoreCompileInputs.cache
+E:\Etec\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.exe
+E:\Etec\ProjetoFeira\ProjetoFeira\obj\Debug\ProjetoFeira.pdb
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\bin\Debug\ProjetoFeira.exe.config
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\bin\Debug\ProjetoFeira.exe
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\bin\Debug\ProjetoFeira.pdb
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.AssemblyReference.cache
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.SuggestedBindingRedirects.cache
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\obj\Debug\ProjetoFeira.Form1.resources
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\obj\Debug\ProjetoFeira.Properties.Resources.resources
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.GenerateResource.cache
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\obj\Debug\ProjetoFeira.csproj.CoreCompileInputs.cache
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\obj\Debug\ProjetoFeira.exe
+D:\Etec\ProjetoFeiraNormal\ProjetoFeira\obj\Debug\ProjetoFeira.pdb
